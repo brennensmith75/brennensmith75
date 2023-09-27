@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi �, I'm a Senior Software Engineer Brennen Smith</h1>
+<h1 align="center">Hi! I'm Brennen Smith, a Senior Software Engineer</h1>
 <h3 align="center">Freelancer @ Upwork</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brennensmith75&label=Profile%20views&color=0e75b6&style=flat" alt="brennensmith75" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brennensmith75&theme=" alt="brennensmith75" /></a> </p>
 
-- � I’m currently working on **Laravel, Drupal, Symfony, WordPress, CakePHP, Vue, React, TALL**
-- � I’m looking to collaborate on **Long-term & Full-time Project**
+- I’m currently working on **Laravel, Drupal, Symfony, WordPress, CakePHP, Vue, React, TALL**
+- I’m looking to collaborate on **Long-term & Full-time Project**
 
-- � How to reach me **brennens642@gmail.com**
+- How to reach me **brennens642@gmail.com**
 
 <div> <a href="https://github.com/brennensmith75" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:brennens642@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
